@@ -1,0 +1,17 @@
+{
+    "name": "-akhanhtarzan-dom-utils", 
+    "version": "2.0.0", 
+    "description": "Các hàm tiện ích để xử lý DOM", 
+    "main": "index.js", 
+    "author": "Khanh Tarzan", 
+    "license": "MIT", 
+    "keywords": [ 
+      "dom",
+      "manipulation",
+      "javascript",
+      "utils"
+    ],
+    "files": [ 
+      "index.js"
+    ]
+  }
